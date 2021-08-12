@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Rashodbek
+- 👀 I’m interested in AI/Robotics
+- 🌱 I’m new in coding
